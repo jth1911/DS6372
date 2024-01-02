@@ -1,0 +1,1 @@
+Can Regression Analysis be used to predict weather patterns or levels of visibility of certain area.  Could this model been used to help navigate bombers to bomb the targets with a higher probability of success.
